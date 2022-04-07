@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Covid.iml" filepath="$PROJECT_DIR$/.idea/modules/Covid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Covid.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Covid.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2102783502/Covid.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/2102783502/Covid.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/815678282/Covid.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/815678282/Covid.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2033336525/Covid.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/2033336525/Covid.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1495903953/Covid.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1495903953/Covid.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/477649398/Covid.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/477649398/Covid.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1581749646/Covid.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1581749646/Covid.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1062945369/Covid.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/1062945369/Covid.react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1477917461/Covid.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/-1477917461/Covid.react-native-svg.iml" />
+    </modules>
+  </component>
+</project>
