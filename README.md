@@ -11,3 +11,9 @@ Git Clone<br>
 npm install<br>
 Run : npx react-native start<br>
 Run Android: npx react-native run-android<br>
+
+<h3>Credits</h3>
+Info taken from:<br>
+https://api.covid19api.com/summary<br>
+Country Flags taken from : <br>
+https://countryflagsapi.com/<br>
