@@ -43,11 +43,11 @@ You can reach me on <a>Email : bavana980@gmail.com</a>
 
 <h3>Project badges:</h3>
 
+<h3>Features list:</h3>
+<h3>Configuration instructions:</h3>
+<h3>Operating instructions:</h3>
+<h3>Manifest:</h3>
 
-Features list
-Configuration instructions
-Operating instructions
-Manifest
 
 <h3>Change log:</h3>
 Here are the latest change log... where you can find all changes and commits.<br>
