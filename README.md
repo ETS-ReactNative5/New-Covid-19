@@ -27,3 +27,9 @@ Info taken from:<br>
 https://api.covid19api.com/summary<br>
 Country Flags taken from : <br>
 https://countryflagsapi.com/<br>
+<br>
+<h3>Bugs:</h3>
+Not Found as Of now.
+<br>
+<h3>Supported Links:</h3>
+https://reactnative.dev/docs/environment-setup
