@@ -1,4 +1,5 @@
 <h1>Covid 19 updates based on Countries...</h1>
+<h3>Screen Shots:</h3>
 
 <h3>React Native Prerequisites</h3>
 Node : >=12 <br>
