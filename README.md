@@ -42,15 +42,16 @@ You can reach me on <a>Email : bavana980@gmail.com</a>
 2. if the app get freezed...(Please re-open the app)
 
 <h3>Project badges:</h3>
-![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)<br>
 
 
 Features list
-Change log
 Configuration instructions
 Operating instructions
 Manifest
 
+<h3>Change log:</h3>
+Here are the latest change log... where you can find all changes and commits.<br>
+https://github.com/bavana112/New-Covid-19/commits/master
 
 
 
