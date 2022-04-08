@@ -1,26 +1,14 @@
 <h1>New-Covid-19</h1>
 <p>New-Covid-19 app is intended to get the live cases update.This app is intended for the people to get more awareness.Any one can get the present status that is total confirmed cases and the cases that are confirmed new by creating an account or logging in with credentials</p>
-<h2><font color="blue">List Of Courses offered by KLU</font></h2>
-<h4>B.Tech Program Duration:4 years with the following specialization</h4>
-<ol>
- <li>Bio-Technology(BT)
- <li>Civil Engineering(CE)
- <li>Computer Science and Engineering(CSE)
- <li>Electronics and Communication Engineering(ECE)
- <li>Electronics and Computer Engineering(ECM)
- <li>Electrical and Eletronics Engineering(EEE)
- <li>Mechanical Engineeing(ME)
- <li>Petroleum Engineering(PE)
-</ol>
-
 <div id="toc_container">
 <p>Contents</p>
 <ul class="toc_list">
 <li><a href="#question_1"></a>
-<li><a href="#question_2">Heading 2</a>
-<li><a href="#question_3">Heading 3</a>
-<li><a href="#question_4">Heading 4</a>
-<li><a href="#question_5">Heading 5</a>
+<li><a href="#question_2">Project Badges</a>
+<li><a href="#question_3">Demo Screenshots</a>
+<li><a href="#question_4">React Native Prerequisites</a>
+<li><a href="#question_5">Installation instructions</a>
+ <li><a href="#question_6">credits & acknowledgments</a>
 </ul>
 </div>
 <div style="display: inline-block">
