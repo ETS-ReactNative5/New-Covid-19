@@ -47,6 +47,7 @@ You can reach me on <a>Email : bavana980@gmail.com</a>
 <h3>Configuration instructions:</h3>
 <h3>Operating instructions:</h3>
 <h3>Manifest:</h3>
+<h3>Copy right info:</h3><br>
 
 
 <h3>Change log:</h3>
