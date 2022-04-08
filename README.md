@@ -1,5 +1,19 @@
 <h1>New-Covid-19</h1>
 <p>New-Covid-19 app is intended to get the live cases update.This app is intended for the people to get more awareness.Any one can get the present status that is total confirmed cases and the cases that are confirmed new by creating an account or logging in with credentials</p>
+<h2><font color="blue">Table of Contents</font></h2>
+<ol>
+ <li>Project Badges
+ <li>Demo screenshots
+ <li>React Native Prerequisites
+ <li>Installation instructions
+ <li>credits & acknowlegments
+ <li>Bug list
+ <li>Supported links
+ <li>Troubleshooting tips
+ <li>Features list
+ <li>Configurat
+</ol>
+
 
 <div style="display: inline-block">
   <div style="display: inline-block">
@@ -82,6 +96,9 @@ No permissions required.
 <h3>Copy right info:</h3>
 MIT License<br>
 https://github.com/bavana112/New-Covid-19/blob/master/LICENSE
+
+<h3>project logo</h3>
+Logo : ![tores](https://user-images.githubusercontent.com/101495505/162371100-586256da-280c-4db8-903d-94438576c301.png)<br>
 
                                                                                 
 <h3>Change log:</h3>
