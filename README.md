@@ -77,7 +77,7 @@ No permissions required.
 <img src="https://user-images.githubusercontent.com/101495505/162437529-d562cdee-b140-4ef6-b8fc-37d991fef303.png" >
                                                            
                                                                                 
-<h3>Copy right info:</h3><br>
+<h3>Copy right info:</h3>
 MIT License<br>
 https://github.com/bavana112/New-Covid-19/blob/master/LICENSE
 
