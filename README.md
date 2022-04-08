@@ -12,9 +12,11 @@ Node : >=12 <br>
 React : 17.0.2<br>
 React-native: 0.67.3<br>
 Android studio<br>
-
+Heroku Server : For Hosting<br>
+MongoDb Atlas for Database<br>
+Node js For Backend API<br><br><br>
 <h3>Dev Set up :</h3>
-Git Clone<br>
+Git Clone: https://github.com/bavana112/New-Covid-19.git<br>
 npm install<br>
 Run : npx react-native start<br>
 Run Android: npx react-native run-android<br>
