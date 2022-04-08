@@ -21,6 +21,7 @@
 </ol>
 
 
+<h3>Project badges</h3><br>
 <div style="display: inline-block">
   <div style="display: inline-block">
     <img src="https://img.shields.io/badge/build-passing-green" width="80" height="21">
@@ -38,7 +39,7 @@
     <img src="https://img.shields.io/badge/npm-8.3.1-green" width="80" height="21">
   </div>
 </div>
-<h3>Screen Shots:</h3><br>
+<h3>Demo Screen Shots:</h3><br>
 Logo : ![tores](https://user-images.githubusercontent.com/101495505/162371100-586256da-280c-4db8-903d-94438576c301.png)<br>
 Login: ![1649395753084](https://user-images.githubusercontent.com/101495505/162371127-6ea634bb-0c26-47e6-a595-d289f8e28886.jpg)<br>
 Sign Up : ![1649395902836](https://user-images.githubusercontent.com/101495505/162371152-963323f1-3fec-47df-89ab-c263b7a34e01.jpg)<br>
@@ -56,19 +57,20 @@ Heroku Server : For Hosting<br>
 MongoDb Atlas for Database<br>
 Node js For Backend API<br>
 
+<h2>installation instructions</h2>
 <h3>Dev Set up :</h3>
 Git Clone: https://github.com/bavana112/New-Covid-19.git<br>
 npm install<br>
 Run : npx react-native start<br>
 Run Android: npx react-native run-android<br>
 
-<h3>Credits</h3>
+<h3>Credits & acknowledgments</h3>
 Info taken from:<br>
 https://api.covid19api.com/summary<br>
 Country Flags taken from : <br>
 https://countryflagsapi.com/<br>
 <br>
-<h3>Bugs:</h3>
+<h3>Bug list:</h3>
 Not Found as Of now.
 <br>
 <h3>Supported Links:</h3>
