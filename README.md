@@ -48,12 +48,13 @@ You can reach me on <a>Email : bavana980@gmail.com</a>
 <h3>Operating instructions:</h3>
 <h3>Manifest:</h3>
 <h3>Copy right info:</h3><br>
-
+MIT License<br>
+https://github.com/bavana112/New-Covid-19/blob/master/LICENSE
 
 <h3>Change log:</h3>
 Here are the latest change log... where you can find all changes and commits.<br>
-https://github.com/bavana112/New-Covid-19/commits/master
-
+Commits : https://github.com/bavana112/New-Covid-19/commits/master
+PR's : 
 
 
 
