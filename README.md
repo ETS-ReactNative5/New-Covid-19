@@ -1,3 +1,4 @@
+<title>::New-Covid-19::</title>
 <h1>New-Covid-19...</h1>
 <div style="display: inline-block">
   <div style="display: inline-block">
