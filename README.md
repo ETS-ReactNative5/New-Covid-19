@@ -11,7 +11,13 @@
  <li>Supported links
  <li>Troubleshooting tips
  <li>Features list
- <li>Configurat
+ <li>Configuration instructions
+ <li>operating instructions
+ <li>Manifest(list of files)
+ <li>Copyright information
+ <li>Project logo
+ <li>change log
+ <li>contact information
 </ol>
 
 
