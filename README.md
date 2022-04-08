@@ -115,4 +115,7 @@ Commits : https://github.com/bavana112/New-Covid-19/commits/master<br>
 PR's : https://github.com/bavana112/New-Covid-19/pulls
                                                                         
 <h3>Contact Information:</h3>
+Bhavana Patibandla
+Student id:200465993
 You can reach me on <a>Email : bavana980@gmail.com</a>
+<a>bpg649@uregina.ca</a>
