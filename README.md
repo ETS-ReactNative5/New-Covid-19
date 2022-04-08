@@ -1,6 +1,21 @@
 <h1>Covid 19 updates based on Countries...</h1>
-<img src="https://img.shields.io/badge/build-passing-blue width="20" height="20">
-<img src="https://img.shields.io/badge/build-passing-blue width="20" height="20">
+<div style="display: inline-block">
+  <div style="display: inline-block">
+    <img src="https://img.shields.io/badge/build-passing-green" width="80" height="21">
+  </div>
+  <div style="display: inline-block">
+    <img src="https://img.shields.io/badge/issues-0%20open-inactive" width="80" height="21">
+  </div>
+  <div style="display: inline-block">
+    <img src="https://img.shields.io/badge/pull%20requests-0%20open-important" width="80" height="21">
+  </div>
+  <div style="display: inline-block">
+    <img src="https://img.shields.io/badge/License-MIT-red" width="80" height="21">
+  </div>
+  <div style="display: inline-block">
+    <img src="https://img.shields.io/badge/npm-8.3.1-green" width="80" height="21">
+  </div>
+</div>
 <h3>Screen Shots:</h3><br>
 Logo : ![tores](https://user-images.githubusercontent.com/101495505/162371100-586256da-280c-4db8-903d-94438576c301.png)<br>
 Login: ![1649395753084](https://user-images.githubusercontent.com/101495505/162371127-6ea634bb-0c26-47e6-a595-d289f8e28886.jpg)<br>
@@ -18,6 +33,7 @@ Android studio<br>
 Heroku Server : For Hosting<br>
 MongoDb Atlas for Database<br>
 Node js For Backend API<br><br><br>
+
 <h3>Dev Set up :</h3>
 Git Clone: https://github.com/bavana112/New-Covid-19.git<br>
 npm install<br>
@@ -40,25 +56,36 @@ https://reactnative.dev/docs/environment-setup
 <h3>Troubleshooting tips:</h3>
 1.If the page is not loading...(Please check internet connection)<br>
 2. if the app get freezed...(Please re-open the app)
-
-<h3>Project badges:</h3>
-<img src="https://img.shields.io/badge/build-passing-blue width="20" height="20">
+                                                                             
+                                                                                
 <h3>Features list:</h3>
-<h3>Configuration instructions:</h3>
-<h3>Operating instructions:</h3>
-<h3>Manifest:</h3>
+Get the latest updates on covid-19<br>
+Dynamic login and Dynamic signup with real time data base<br>
+Up to date Dynamic data will come from the api<br>
+Specific country data in finger tips.
 
+
+<h3>Configuration instructions:</h3>
+No Special configurations required to run the applications<br>
+Follow the https://github.com/bavana112/New-Covid-19/edit/master/README.md#dev-set-up-
+
+<h3>Operating instructions:</h3>
+Normal Mobile application instructions.<br>
+No permissions required.
+
+<h3>Manifest(List of files):</h3>
+<img src="https://user-images.githubusercontent.com/101495505/162437529-d562cdee-b140-4ef6-b8fc-37d991fef303.png" >
+                                                           
+                                                                                
 <h3>Copy right info:</h3><br>
 MIT License<br>
 https://github.com/bavana112/New-Covid-19/blob/master/LICENSE
 
+                                                                                
 <h3>Change log:</h3>
 Here are the latest change log... where you can find all changes and commits.<br>
 Commits : https://github.com/bavana112/New-Covid-19/commits/master<br>
 PR's : https://github.com/bavana112/New-Covid-19/pulls
-
+                                                                        
 <h3>Contact Information:</h3>
 You can reach me on <a>Email : bavana980@gmail.com</a>
-
-
-
