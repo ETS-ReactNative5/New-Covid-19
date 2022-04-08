@@ -1,11 +1,11 @@
 <h1>Covid 19 updates based on Countries...</h1>
-<h3>Screen Shots:</h3>
-Logo : ![tores](https://user-images.githubusercontent.com/101495505/162371100-586256da-280c-4db8-903d-94438576c301.png)
-Login: ![1649395753084](https://user-images.githubusercontent.com/101495505/162371127-6ea634bb-0c26-47e6-a595-d289f8e28886.jpg)
-Sign Up : ![1649395902836](https://user-images.githubusercontent.com/101495505/162371152-963323f1-3fec-47df-89ab-c263b7a34e01.jpg)
-All Countries : ![1649395872460](https://user-images.githubusercontent.com/101495505/162371182-830f9c44-5b90-495a-a647-aa65195a9ead.jpg)
-Find Countries : ![1649395834119](https://user-images.githubusercontent.com/101495505/162371209-9560c215-9c7e-47e7-b2d2-98fe3a095120.jpg)
-Country Full Details : ![1649395804879](https://user-images.githubusercontent.com/101495505/162371231-785ec0e5-ad34-435a-995e-0cfd76df7cdb.jpg)
+<h3>Screen Shots:</h3><br>
+Logo : ![tores](https://user-images.githubusercontent.com/101495505/162371100-586256da-280c-4db8-903d-94438576c301.png)<br>
+Login: ![1649395753084](https://user-images.githubusercontent.com/101495505/162371127-6ea634bb-0c26-47e6-a595-d289f8e28886.jpg)<br>
+Sign Up : ![1649395902836](https://user-images.githubusercontent.com/101495505/162371152-963323f1-3fec-47df-89ab-c263b7a34e01.jpg)<br>
+All Countries : ![1649395872460](https://user-images.githubusercontent.com/101495505/162371182-830f9c44-5b90-495a-a647-aa65195a9ead.jpg)<br>
+Find Countries : ![1649395834119](https://user-images.githubusercontent.com/101495505/162371209-9560c215-9c7e-47e7-b2d2-98fe3a095120.jpg)<br>
+Country Full Details : ![1649395804879](https://user-images.githubusercontent.com/101495505/162371231-785ec0e5-ad34-435a-995e-0cfd76df7cdb.jpg)<br>
 <br>
 <h3>React Native Prerequisites</h3>
 Node : >=12 <br>
