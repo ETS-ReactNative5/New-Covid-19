@@ -1,4 +1,9 @@
-<title>::New-Covid-19::</title>
+<html>
+<head>
+<title>:List of Courses:</title>
+</head>
+<body>
+
 <h1>New-Covid-19...</h1>
 <div style="display: inline-block">
   <div style="display: inline-block">
