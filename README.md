@@ -1,4 +1,5 @@
-<h1>New-Covid-19...</h1>
+<h1>New-Covid-19</h1>
+<p>New-Covid-19 app is intended to get the live cases update.This app is intended for the people to get more awareness among the people.Any one can get the present status that is total confirmed cases and the cases that are confiremed new</p>
 <div style="display: inline-block">
   <div style="display: inline-block">
     <img src="https://img.shields.io/badge/build-passing-green" width="80" height="21">
