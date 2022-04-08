@@ -116,6 +116,7 @@ PR's : https://github.com/bavana112/New-Covid-19/pulls
                                                                         
 <h3>Contact Information:</h3>
 Bhavana Patibandla<br>
+University of Regina<br>
 Student id:200465993<br>
 You can reach me on <a>Email : bavana980@gmail.com</a><br>
 <a>bpg649@uregina.ca</a><br>
