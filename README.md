@@ -34,28 +34,29 @@ Not Found as Of now.
 <h3>Supported Links:</h3>
 https://reactnative.dev/docs/environment-setup
 
-<h3>Contact Information:</h3>
-You can reach me on <a>Email : bavana980@gmail.com</a>
 
 <h3>Troubleshooting tips:</h3>
 1.If the page is not loading...(Please check internet connection)<br>
 2. if the app get freezed...(Please re-open the app)
 
 <h3>Project badges:</h3>
-
+<img src="https://img.shields.io/badge/build-passing-blue width="20" height="20">
 <h3>Features list:</h3>
 <h3>Configuration instructions:</h3>
 <h3>Operating instructions:</h3>
 <h3>Manifest:</h3>
+
 <h3>Copy right info:</h3><br>
 MIT License<br>
 https://github.com/bavana112/New-Covid-19/blob/master/LICENSE
 
 <h3>Change log:</h3>
 Here are the latest change log... where you can find all changes and commits.<br>
-Commits : https://github.com/bavana112/New-Covid-19/commits/master
-PR's : 
+Commits : https://github.com/bavana112/New-Covid-19/commits/master<br>
+PR's : https://github.com/bavana112/New-Covid-19/pulls
 
+<h3>Contact Information:</h3>
+You can reach me on <a>Email : bavana980@gmail.com</a>
 
 
 
