@@ -33,3 +33,24 @@ Not Found as Of now.
 <br>
 <h3>Supported Links:</h3>
 https://reactnative.dev/docs/environment-setup
+
+<h3>Contact Information:</h3>
+You can reach me on <a>Email : bavana980@gmail.com</a>
+
+<h3>Troubleshooting tips:</h3>
+1.If the page is not loading...(Please check internet connection)
+2. if the app get freezed...(Please re-open the app)
+
+<h3>Project badges:</h3>
+![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
+Features list
+Change log
+Configuration instructions
+Operating instructions
+Manifest
+
+
+
+
+
+
