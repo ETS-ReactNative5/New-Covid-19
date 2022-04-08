@@ -1,4 +1,6 @@
 <h1>Covid 19 updates based on Countries...</h1>
+<img src="https://img.shields.io/badge/build-passing-blue width="20" height="20">
+<img src="https://img.shields.io/badge/build-passing-blue width="20" height="20">
 <h3>Screen Shots:</h3><br>
 Logo : ![tores](https://user-images.githubusercontent.com/101495505/162371100-586256da-280c-4db8-903d-94438576c301.png)<br>
 Login: ![1649395753084](https://user-images.githubusercontent.com/101495505/162371127-6ea634bb-0c26-47e6-a595-d289f8e28886.jpg)<br>
