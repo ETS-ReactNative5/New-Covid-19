@@ -80,8 +80,9 @@ https://api.covid19api.com/summary<br>
 Country Flags taken from : <br>
 https://countryflagsapi.com/<br>
 <br>
-<h3>Bug list:</h3>
+<h3 font color="red">Bug list:</h3>
 Not Found as Of now.
+If you find any errors in our app or any of the code, please contact me via email and feel free to message me.
 <br>
 <h3>Supported Links:</h3>
 https://reactnative.dev/docs/environment-setup
