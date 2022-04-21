@@ -107,9 +107,9 @@ Follow the https://github.com/bavana112/New-Covid-19/edit/master/README.md#dev-s
 --
 <h3>Operating instructions:</h3>
 Normal Mobile application instructions.<br>
-<p align="center">No permissions required.to access the app or to view the details of covid patients that is the app can run without having any permissions<br>
-This is designed in such a way that the users sometimes will be in hurry and may lose interest on our application due to privacy issues we<br>
-are intented not to gain any additional information or any access from the users,we mainly concentrate on users privacy in our app</p><br>
+<p align="justify">No permissions required.to access the app or to view the details of covid patients that is the app can run without having any permissions
+This is designed in such a way that the users sometimes will be in hurry and may lose interest on our application due to privacy issues we
+are intented not to gain any additional information or any access from the users,we mainly concentrate on users privacy in our app</p><br><br>
 
 <h3>Manifest(List of files):</h3>
 <img src="https://user-images.githubusercontent.com/101495505/162437529-d562cdee-b140-4ef6-b8fc-37d991fef303.png" >
