@@ -1,14 +1,14 @@
 <h1>New-Covid-19</h1>
-<p>New-Covid-19 app is intended to get the live cases update.This app is intended for the people to get more  awareness.<br>
+<p>New-Covid-19 app is intended to get the live cases update.This app is intended for the people to get more   awareness<br>
  Any one can get the status that  is total confirmed cases and the cases that are confirmed new by creating an   account<br>
- or logging in with credentials.Previously many people got infected due to covid19 and this is because lack ofawareness <br>  
+ or logging in with credentials.Previously many people got infected due to covid19 and this is because lack of awareness<br>  
  and lack of updates. So by using my app any  one can get the present status that is total confirmed cases and the cases<br>
- that are confirmed new.There are some websites which will show the  analytics of each area.But by using my mobile app  <br>
+ that are confirmed new.There are some websites which will show the  analytics of each area.But by using my   mobile app<br>
  can create an account and login any time using those creditions.If we don’t have the account one can create new one and<br>
  login andcan check the covid cases by country where we will have live updates of and the appl will be refreshed time to<br>
  time.The user will login with an user id and password and and it will be recorded in the admin database.   This app was<br>
  choosen basically to solve the problem of the people in the world by letting them to have  awareness and to keep   safe<br> 
- every time.In general, Android utilises java, while   iOS uses Swift. To deal with this scenario, cross-platform langua<br> 
+ every time.In general, Android utilises java, while   iOS uses Swift. To deal with this scenario,   cross-platform lang<br> 
  are utilised, with React native being the most recent and successful.</p>
 <h3>PROJECT SCOPE-CONSTRAINTS AND ASSUMPTIONS :</h3><br>
 <p>My mobile application project's purpose is to create an app that incorporates all of the 
@@ -125,6 +125,11 @@ are intented not to gain any additional information or any access from the users
 <h3>Copy right info:</h3>
 MIT License<br>
 https://github.com/bavana112/New-Covid-19/blob/master/LICENSE
+Copyright (c) 2022 bavana112
+The copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files
 
 <h3>project logo</h3>
 Logo : ![tores](https://user-images.githubusercontent.com/101495505/162371100-586256da-280c-4db8-903d-94438576c301.png)<br>
