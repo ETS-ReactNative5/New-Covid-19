@@ -126,6 +126,7 @@ of this software and associated documentation files
 
 <h3>project logo</h3>
 Logo : ![tores](https://user-images.githubusercontent.com/101495505/162371100-586256da-280c-4db8-903d-94438576c301.png)<br>
+<img width="20%" height="20%" src="https://user-images.githubusercontent.com/101495505/162371100-586256da-280c-4db8-903d-94438576c301.png" >
 
                                                                                 
 <h3>Change log:</h3>
