@@ -1,4 +1,4 @@
-<h1 style="background-color:DodgerBlue;">New-Covid-19</h1>
+<h1>New-Covid-19</h1>
 <p align="justify">New-Covid-19 app is intended to get the live cases update.This app is intended for the people to get more awareness Any one can get the status that  is total confirmed cases and the cases that are confirmed new by creating an   accountor logging in with credentials.Previously many people got infected due to covid19 and this is because lack of awareness and lack of updates. So by using my app any  one can get the present status that is total confirmed cases and the casesthat are confirmed new.There are some websites which will show the  analytics of each area.But by using my   mobile app can create an account and login any time using those creditions.If we don’t have the account one can create new one and login andcan check the covid cases by country where we will have live updates of and the application will be refreshed time to time.The user will login with an user id and password and and it will be recorded in the admin database.   This app was choosen basically to solve the problem of the people in the world by letting them to have  awareness and to keep   safe every time.In general, Android utilises java, while iOS uses Swift. To deal with this scenario,   cross-platform language are utilised, with React native being the most recent and successful.</p>
 <h3>PROJECT SCOPE-CONSTRAINTS AND ASSUMPTIONS :</h3><br>
 <p align="justify">My mobile application project's purpose is to create an app that incorporates all of the 
@@ -87,8 +87,8 @@ https://reactnative.dev/docs/environment-setup
 
 
 <h3>Troubleshooting tips:</h3>
-1.If the page is not loading...(Please check internet connection that is connect it through the wifi by trouble shooting and knowing about the system problems and recify those errors by using reboot the internet connection )<br>
-2. if the app get freezed...(Please re-open the app,basically app runs without any freezing but incase if it is stuck we can re-open the app )
+<p align="justify">1.If the page is not loading...(Please check internet connection that is connect it through the wifi by trouble shooting and knowing about the system problems and recify those errors by using reboot the internet connection )</p><br>
+<p align="justify">2. if the app get freezed...(Please re-open the app,basically app runs without any freezing but incase if it is stuck we can re-open the app )</p>
                                                                              
                                                                                 
 <h3>Features list:</h3>
