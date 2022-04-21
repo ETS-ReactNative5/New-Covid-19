@@ -1,6 +1,7 @@
 <h1>New-Covid-19</h1>
 <p align="justify">New-Covid-19 app is intended to get the live cases update.This app is intended for the people to get more awareness Any one can get the status that  is total confirmed cases and the cases that are confirmed new by creating an   accountor logging in with credentials.Previously many people got infected due to covid19 and this is because lack of awareness and lack of updates. So by using my app any  one can get the present status that is total confirmed cases and the casesthat are confirmed new.There are some websites which will show the  analytics of each area.But by using my   mobile app can create an account and login any time using those creditions.If we don’t have the account one can create new one and login andcan check the covid cases by country where we will have live updates of and the application will be refreshed time to time.The user will login with an user id and password and and it will be recorded in the admin database.   This app was choosen basically to solve the problem of the people in the world by letting them to have  awareness and to keep   safe every time.In general, Android utilises java, while iOS uses Swift. To deal with this scenario,   cross-platform language are utilised, with React native being the most recent and successful.</p>
-<h3>PROJECT SCOPE-CONSTRAINTS AND ASSUMPTIONS :</h3><br>
+
+<h2>PROJECT SCOPE-CONSTRAINTS AND ASSUMPTIONS :</h2><br>
 <p align="justify">My mobile application project's purpose is to create an app that incorporates all of the 
 concepts presented in class. There are a lot of new things to learn, such as how to     put 
 everything in github and how to navgate from one page to the next. and validating the login 
@@ -101,12 +102,13 @@ Specific country data in finger tips.
 <h3>Configuration instructions:</h3>
 No Special configurations required to run the applications<br>
 Follow the https://github.com/bavana112/New-Covid-19/edit/master/README.md#dev-set-up-
-
+--
+--
 <h3>Operating instructions:</h3>
 Normal Mobile application instructions.<br>
-No permissions required.to access the app or to view the details of covid patients that is the app can run without having any permissions<br>
+<p align="center">No permissions required.to access the app or to view the details of covid patients that is the app can run without having any permissions<br>
 This is designed in such a way that the users sometimes will be in hurry and may lose interest on our application due to privacy issues we<br>
-are intented not to gain any additional information or any access from the users,we mainly concentrate on users privacy in our app<br>
+are intented not to gain any additional information or any access from the users,we mainly concentrate on users privacy in our app</p><br>
 
 <h3>Manifest(List of files):</h3>
 <img src="https://user-images.githubusercontent.com/101495505/162437529-d562cdee-b140-4ef6-b8fc-37d991fef303.png" >
@@ -137,4 +139,5 @@ Student id:200465993<br>
 Master in computer science<br>
 You can reach me on <a>Email : bavana980@gmail.com</a><br>
 <a>bpg649@uregina.ca</a><br>
+
 
