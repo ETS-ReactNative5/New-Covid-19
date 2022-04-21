@@ -56,7 +56,9 @@ All Countries : ![1649395872460](https://user-images.githubusercontent.com/10149
 Find Countries : ![1649395834119](https://user-images.githubusercontent.com/101495505/162371209-9560c215-9c7e-47e7-b2d2-98fe3a095120.jpg)<br>
 Country Full Details : ![1649395804879](https://user-images.githubusercontent.com/101495505/162371231-785ec0e5-ad34-435a-995e-0cfd76df7cdb.jpg)<br>
 <br>
-<img height="40%" width="40%" src="https://user-images.githubusercontent.com/101495505/162371182-830f9c44-5b90-495a-a647-aa65195a9ead.jpg" >
+<img height="40%" width="40%" src="https://user-images.githubusercontent.com/101495505/162371182-830f9c44-5b90-495a-a647-aa65195a9ead.jpg" ><br><br>
+<img height="40%" width="40%" src="https://user-images.githubusercontent.com/101495505/162371209-9560c215-9c7e-47e7-b2d2-98fe3a095120.jpg" ><br>
+
 <img height="50%" width="40%" src="https://user-images.githubusercontent.com/101495505/162371231-785ec0e5-ad34-435a-995e-0cfd76df7cdb.jpg" >
 
 <h3>React Native Prerequisites</h3>
