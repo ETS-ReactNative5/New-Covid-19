@@ -1,5 +1,12 @@
 <h1>New-Covid-19</h1>
-<p>New-Covid-19 app is intended to get the live cases update.This app is intended for the people to get more awareness.Any one can get the present status that is total confirmed cases and the cases that are confirmed new by creating an account or logging in with credentials</p>
+<p>New-Covid-19 app is intended to get the live cases update.This app is intended for the people to get more awareness.Any one can get the present status that is total confirmed cases and the cases that are confirmed new by creating an account or logging in with credentials.Previously many people got infected due to covid 19 and this is because lack of awareness 
+and lack of updates. So by using my app any one can get the present status that is total 
+confirmed cases and the cases that are confirmed new.There are some websites which will 
+show the analytics of each area.But by using my mobile app one can create an account and 
+login any time using those creditions.If we don’t have the account one can create new one and 
+login and can check the covid cases by country where we will have live updates and the app will 
+be refreshed time to time.The user will login with an user id and password and and it will be 
+recorded in the admin database.</p>
 <h2><font color="blue">Table of Contents</font></h2>
 <ol>
  <li>Project Badges
