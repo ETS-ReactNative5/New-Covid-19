@@ -1,12 +1,5 @@
 <h1>New-Covid-19</h1>
-<p>New-Covid-19 app is intended to get the live cases update.This app is intended for the people to get more awareness.Any one can get the present status that is total confirmed cases and the cases that are confirmed new by creating an account or logging in with credentials.Previously many people got infected due to covid 19 and this is because lack of awareness 
-and lack of updates. So by using my app any one can get the present status that is total 
-confirmed cases and the cases that are confirmed new.There are some websites which will 
-show the analytics of each area.But by using my mobile app one can create an account and 
-login any time using those creditions.If we don’t have the account one can create new one and 
-login and can check the covid cases by country where we will have live updates and the app will 
-be refreshed time to time.The user will login with an user id and password and and it will be 
-recorded in the admin database.</p>
+<p>New-Covid-19 app is intended to get the live cases update.This app is intended for the people to get more awareness.Any one can get the present status that is total confirmed cases and the cases that are confirmed new by creating an account or logging in with credentials.Previously many people got infected due to covid 19 and this is because lack of awareness  and lack of updates. So by using my app any one can get the present status that is total confirmed cases and the cases that are confirmed new.There are some websites which will show the analytics of each area.But by using my mobile app one can create an account and login any time using those creditions.If we don’t have the account one can create new one and login and can check the covid cases by country where we will have live updates and the app will be refreshed time to time.The user will login with an user id and password and and it will be recorded in the admin database.</p>
 <h2><font color="blue">Table of Contents</font></h2>
 <ol>
  <li>Project Badges
@@ -85,8 +78,9 @@ https://reactnative.dev/docs/environment-setup
 
 
 <h3>Troubleshooting tips:</h3>
-1.If the page is not loading...(Please check internet connection)<br>
-2. if the app get freezed...(Please re-open the app)
+1.If the page is not loading...(Please check internet connection that is connect it through the wifi by trouble shooting and knowing about the system problems and recify those errors by using reboot the internet connection )<br>
+
+2. if the app get freezed...(Please re-open the app,basically app runs without any freezing but incase if it is stuck we can re-open the app )
                                                                              
                                                                                 
 <h3>Features list:</h3>
