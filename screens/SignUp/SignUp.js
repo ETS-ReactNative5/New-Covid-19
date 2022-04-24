@@ -15,27 +15,27 @@ const SignUp = () => {
   const onSignUp = async () => {
     if (email && password) {
       let value = [
-        {email: 'test@gmail.com', password: '123123', name: 'text'},
+        {email: 'test@gmail.com', password: '123123', name: 'text'}, //giving some random values that is mail and password
         {email: 'bavana@gmail.com', password: '123123', name: 'bavana'},
         {email: 'ajay@gmail.com', password: '123123', name: 'ajay'},
       ];
-      value.push({email: email, password: password, name: name});
+      value.push({email: email, password: password, name: name}); //pushing email,password and name 
       let updatedData = JSON.stringify(value);
       AsyncStorage.setItem('userDetails', updatedData); //user signed up succesfully
       
-       navigation.navigate('login');
+       navigation.navigate('login'); //navigate to the login page
     } else {
-      alert('Enter all details');
+      alert('Enter all details');  //It will pop-up alert message as enter all details
       //in-valid details
     }
   };
   return (
     <View style={styles.root}>
-      <Text style={styles.text}>Create an account</Text>
-      <RandomInput placeholder="User name" value={name} setValue={setName} />
+      <Text style={styles.text}>Create an account</Text> 
+      <RandomInput placeholder="User name" value={name} setValue={setName} /> 
       <RandomInput placeholder="Email" value={email} setValue={setEmail} />
       <RandomInput
-        placeholder="Password"
+        placeholder="Password" 
         secureTextEntry
         value={password}
         setValue={setPassword}
