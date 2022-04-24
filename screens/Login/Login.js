@@ -30,7 +30,7 @@ const Login = () => {
     let userData = await  AsyncStorage.getItem('userDetails');
     userData = JSON.parse(userData)
     let correctDetails = false;
-    for (let i = 0; i < userData.length; i++) {
+    for (let i = 0; i < userData.length; i++) { //used for loop 
       if (
         userData[i].email == email &&
         userData[i].password == password
@@ -40,7 +40,7 @@ const Login = () => {
       } 
     }
     if(!correctDetails){ //incorrect details and user not found
-        alert("Incorrect Details")
+        alert("Incorrect Details") //pop up with incorrect details message on the screen
     }else{
       navigation.navigate('home'); //default
     }
