@@ -11,7 +11,8 @@ import {SafeAreaView, StyleSheet} from 'react-native';
 import {NavigationContainer} from '@react-navigation/native';
 import {createNativeStackNavigator} from '@react-navigation/native-stack';
 import {createDrawerNavigator} from '@react-navigation/drawer';
-import Splash from './screens/Splash/SplashScreen';
+//manually importing of reusable components
+import Splash from './screens/Splash/SplashScreen'; 
 import Login from './screens/Login';
 import SignUp from './screens/SignUp';
 import Home from './screens/Home';
@@ -21,6 +22,7 @@ const Stack = createNativeStackNavigator();
 
 const App: () => Node = () => {
   return (
+    //navigation controls
     <NavigationContainer>
       <Stack.Navigator
         screenOptions={{
