@@ -1,3 +1,4 @@
+//importing resuasble components /required react native components
 import React, {useEffect, useState} from 'react';
 import {
   View,
@@ -11,7 +12,7 @@ import {
 import ItemRows from '../../components/ItemRows';
 const Home = () => {
   //setting pre-defined values
-  const url = 'https://api.covid19api.com/summary'; //API url used for covid summary
+  const url = 'https://api.covid19api.com/summary';  //API url used for covid summary
   const [filteredData, setfilteredData] = useState([]); 
   const [masteredData, setmasteredData] = useState([]);
   const [isLoading, setIsloading] = useState(false);
@@ -20,7 +21,7 @@ const Home = () => {
   //on page load functionality
   useEffect(() => {
     setIsloading(true);
-    const fetchCovidData = async () => {
+    const fetchCovidData = async () => { //fetching covid data
       setIsloading(true);
       try {
         const result = await fetch(url);
@@ -36,8 +37,8 @@ const Home = () => {
   const check = text => {
     
     if (text) {
-      const newData = masteredData.filter(item => {
-        const itemData = item.Country
+      const newData = masteredData.filter(item => { 
+        const itemData = item.Country 
           ? item.Country.toUpperCase()
           : ''.toUpperCase();
         const textData = text.toUpperCase();
@@ -46,7 +47,7 @@ const Home = () => {
       setfilteredData(newData);
       setsearch(text);
     } else {
-      setfilteredData(masteredData);
+      setfilteredData(masteredData); //filteringData that is mastered data
       setsearch(text);
     }
   };
@@ -59,7 +60,8 @@ const Home = () => {
             backgroundColor: 'white',
             height: 140,
           }}>
-          <Text style={styles.casesHeading}>Covid Cases by Country </Text>
+          <Text style={styles.casesHeading}>Covid Cases by Country </Text> 
+//covid cases by country
          
             <Text style={styles.casesDate}>
               {new Date().getDate()}-{new Date().getMonth() + 1}-
