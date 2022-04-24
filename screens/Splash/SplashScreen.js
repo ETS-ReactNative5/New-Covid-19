@@ -1,4 +1,5 @@
 //This page is used to show the user before initialization with an icon
+//importing resuasble components /required react native components
 import { View, Text } from 'react-native'
 import React from 'react'
 import SplashScreen from 'react-native-splash-screen'
