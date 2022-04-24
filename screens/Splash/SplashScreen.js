@@ -8,9 +8,9 @@ const Splash = () => {
   const navigation = useNavigation()
     useEffect(() => {
      //splash screen will stay for 1 second
-        setTimeout(() => {
+        setTimeout(() => { //setTimeout function
           SplashScreen.hide();
-          navigation.navigate('login')
+          navigation.navigate('login') //It will navigate to login page
         }, 1000);
       }, []);
   //splash screen will hide after 1 second and navigates to login page automatically
@@ -22,3 +22,4 @@ const Splash = () => {
 }
 
 export default Splash
+//exporting default splash
