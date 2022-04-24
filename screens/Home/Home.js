@@ -7,14 +7,17 @@ import {
   TextInput,
   ActivityIndicator,
 } from 'react-native';
+//importing resuable components
 import ItemRows from '../../components/ItemRows';
 const Home = () => {
-  const url = 'https://api.covid19api.com/summary';
-  const [filteredData, setfilteredData] = useState([]);
+  //setting pre-defined values
+  const url = 'https://api.covid19api.com/summary'; //API url used for covid summary
+  const [filteredData, setfilteredData] = useState([]); 
   const [masteredData, setmasteredData] = useState([]);
   const [isLoading, setIsloading] = useState(false);
   const [error, setError] = useState();
   const [search, setsearch] = useState('');
+  //on page load functionality
   useEffect(() => {
     setIsloading(true);
     const fetchCovidData = async () => {
@@ -29,8 +32,9 @@ const Home = () => {
     };
     fetchCovidData();
   }, []);
+  //search by country by keywords
   const check = text => {
-    console.log(text);
+    
     if (text) {
       const newData = masteredData.filter(item => {
         const itemData = item.Country
@@ -70,6 +74,7 @@ const Home = () => {
          
         </View>
       </View>
+//list of countries rendered
       <View style={styles.flatList}>
         <FlatList
           data={filteredData}
