@@ -3,6 +3,7 @@ import {Text, View, StyleSheet, Image} from 'react-native';
 import {useNavigation} from '@react-navigation/native';
 const ItemRows = ({item}) => {
   const navigation = useNavigation();
+  //moving to particular country with data
   const goToAbout = item => {
     navigation.navigate('about',{
       name:item.Country,
@@ -27,6 +28,7 @@ const ItemRows = ({item}) => {
       <Image
         style={{width: 170, height: 100, position: 'absolute'}}
         source={{uri: `https://countryflagsapi.com/png/${item.CountryCode}`}}
+        //api url used to fetch particular country flag by country code
       />
       <View>
         <Text
