@@ -1,6 +1,7 @@
 import { StyleSheet, Text, View,Pressable } from 'react-native'
 import React from 'react'
-
+//reusable button component
+//@params button text and type of click
 const RandomButton = ({onPress,text}) => {
   return (
     <Pressable onPress={onPress} style={styles.container}>
