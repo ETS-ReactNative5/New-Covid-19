@@ -1,15 +1,17 @@
 import {View, Text, Image, StyleSheet} from 'react-native';
 import React, {useState} from 'react';
+//importing resuasble components /required react native components
 import RandomInput from '../../components/RandomInput';
 import RandomButton from '../../components/RandomButton';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import {useNavigation} from '@react-navigation/native';
 const SignUp = () => {
+  //setting pre-defined values
   const navigation = useNavigation();
   const [name, setName] = useState('');
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
-
+//sign-up functionality by logic
   const onSignUp = async () => {
     if (email && password) {
       let value = [
@@ -19,10 +21,12 @@ const SignUp = () => {
       ];
       value.push({email: email, password: password, name: name});
       let updatedData = JSON.stringify(value);
-      AsyncStorage.setItem('userDetails', updatedData);
+      AsyncStorage.setItem('userDetails', updatedData); //user signed up succesfully
+      
        navigation.navigate('login');
     } else {
       alert('Enter all details');
+      //in-valid details
     }
   };
   return (
