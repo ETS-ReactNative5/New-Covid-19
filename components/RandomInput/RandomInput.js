@@ -1,6 +1,7 @@
 import { View, Text,TextInput,StyleSheet } from 'react-native';
 import React from 'react';
-
+//resuable input field component
+//@params value,setValue,placeholder,secureTextEntry
 const RandomInput = ({value,setValue,placeholder,secureTextEntry}) => {
   return (
     <View style={styles.container}>
